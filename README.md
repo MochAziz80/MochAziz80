@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moch Abdul Aziz</h1>
 <h3 align="center">A passionate Backend developer from Indonesia</h3>
 
-- 🔭 I’m currently working on [Ashoes](https://github.com/MochAziz80/TA-Ashoes)
 
 - 🌱 I’m currently learning **Node Js, React Js**
 
