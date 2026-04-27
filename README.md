@@ -64,8 +64,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Mochaziz80/count.svg?"  />
-</div>
-
 ###
